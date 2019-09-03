@@ -1,4 +1,4 @@
-
+#Programa creado por Giorgio Ventura
 
 def foreign_exchange_calculator(ammount):
     mex_to_col_rate = 145.97
